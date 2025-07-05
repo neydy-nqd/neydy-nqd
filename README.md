@@ -1,7 +1,11 @@
-### Hey there 👋 I'm Nguyễn Quang Duy ( Ney Dy) — just a guy who writes code and breaks things to learn faster.
+### Hey there 👋 I'm Nguyen Quag Duy ( Ney Dy ) — just a backend guy with a product mindset
 
-🎯 Backend-focused, curious about how systems scale  
-🛠️ Tools I use: Python, Node.js, Docker, Git  
-🚀 Love: Clean code • Open source • Product thinking
+🎓 Fresh IT graduate | 🔧 Backend Developer  
+💻 Working mainly with Python, Node.js, SQL & Docker  
+📦 I love building APIs, automating things & learning how real-world systems run
 
-📫 Let’s connect: iam.neydy.nqd@gmail.com
+🎯 On a journey to become a Product Owner / PM with strong technical roots  
+🤝 I care about users, teamwork, and shipping things that actually solve problems
+
+⚡ Fun fact: My nickname "Ney Dy" sounds cooler than I actually am 😎  
+📫 Reach me at: iam.neydy.nqd@gmail.com
